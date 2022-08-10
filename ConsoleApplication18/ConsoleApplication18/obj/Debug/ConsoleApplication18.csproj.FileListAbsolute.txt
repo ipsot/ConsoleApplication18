@@ -1,0 +1,6 @@
+\\mac\home\documents\visual studio 2015\Projects\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe.config
+\\mac\home\documents\visual studio 2015\Projects\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.exe
+\\mac\home\documents\visual studio 2015\Projects\ConsoleApplication18\ConsoleApplication18\bin\Debug\ConsoleApplication18.pdb
+\\mac\home\documents\visual studio 2015\Projects\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.exe
+\\mac\home\documents\visual studio 2015\Projects\ConsoleApplication18\ConsoleApplication18\obj\Debug\ConsoleApplication18.pdb
